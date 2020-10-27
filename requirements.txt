@@ -3,7 +3,7 @@ cffi==1.11.5
 click==6.7
 cloudpickle==0.5.3
 coincurve==9.0.0
-cryptography==2.2.2
+cryptography==3.2
 cv2wrap==1.0
 cycler==0.10.0
 dask==0.18.1
