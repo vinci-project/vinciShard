@@ -6,7 +6,7 @@ coincurve==9.0.0
 cryptography==2.2.2
 cv2wrap==1.0
 cycler==0.10.0
-dask==0.18.1
+dask==2021.10.0
 decorator==4.3.0
 elasticsearch==6.2.0
 ffprobe==0.5
